@@ -1,0 +1,4 @@
+baseURL = "https://imageonlinerr.vercel.app"
+languageCode = "en-us"
+title = "Cartoon Images Online"
+theme = "tale-hugo-master"
